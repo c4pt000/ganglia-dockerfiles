@@ -1,8 +1,8 @@
+<br>
 wget https://raw.githubusercontent.com/c4pt000/ganglia-dockerfiles/master/ganglia-deploy.sh
+<br>
 sh ganglia-deploy.sh
-cd ganglia-dockerfiles/ganglia
-sh start.sh
-
+<br>
 dockerfiles
 ===========
 

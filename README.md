@@ -1,3 +1,8 @@
+apt install gmetad
+git clone https://github.com/c4pt000/ganglia-dockerfiles
+cd ganglia-dockerfiles/ganglia
+sh start.sh
+
 dockerfiles
 ===========
 
